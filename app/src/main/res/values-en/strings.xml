@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">What is the fuel?</string>
+    <string name="valorGasolina">Insert the price per liter of Gasoline</string>
+    <string name="valorEtanol">Insert the price per liter of Ethanol</string>
+    <string name="resultado_etanol">Fill it up with Ethanol</string>
+    <string name="resultado_gasolina">Fill it up with Gasoline</string>
+    <string name="melhor_opcao">What is the best choice?</string>
+</resources>

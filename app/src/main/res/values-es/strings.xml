@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuel es el combustible</string>
+    <string name="valorGasolina">Introduce la cantidad de Gasolina por litro</string>
+    <string name="valorEtanol">Introduce la cantidad de Etanol por litro.</string>
+    <string name="resultado_etanol">Llénese de Etanol</string>
+    <string name="resultado_gasolina">Llénese de Gasolina</string>
+    <string name="melhor_opcao">Cual es la mejor opcion?</string>
+</resources>
